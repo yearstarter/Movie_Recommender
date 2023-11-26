@@ -1,4 +1,4 @@
 # Movie_Recommender
 ## Project description
 
-## Tools and skills
+## Used techniques and python modules
